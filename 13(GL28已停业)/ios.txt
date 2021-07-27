@@ -1,1 +1,0 @@
-{"root":{"code":"1","message":"ok","result":[{"ios_version":"100","ios_url":"","applePlist_url":"","other":",0,,0,","thirdLoginEnable":"0"}]}}
